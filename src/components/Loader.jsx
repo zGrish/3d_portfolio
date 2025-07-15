@@ -2,7 +2,10 @@ import React from 'react'
 
 const Loader = () => {
   return (
-    <div>Loader</div>
+    <mesh>
+      <boxGeometry args={[1, 1, 1]} />
+      <meshStandardMaterial color="gray" />
+    </mesh>
   )
 }
 
