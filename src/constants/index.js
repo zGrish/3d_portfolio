@@ -15,6 +15,10 @@ import {
   git,
   figma,
   docker,
+  aarvath,
+  volunteer,
+  apple,
+
   meta,
   starbucks,
   tesla,
@@ -118,27 +122,37 @@ const experiences = [
   {
     title: "Design & Content Lead",
     company_name: "Aarvath Mobitech Pvt. Ltd.",
-    icon: starbucks,
-    iconBg: "#383E56",
-    date: "July 2023 - November 2024",
+    icon: aarvath,
+    iconBg: "#fff",
+    date: "Jul 2023 - Nov 2024",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Led the design and development team.",
+      "Represented the student-lead startup at tech events.",
+      "Won Cisco's ThingQbator Cohort 6, securing ₹5,00,000 INR in funding.",
+      "Managed internal and external communications, workflow, and contributed to frontend development."
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    title: "Sales Assistant",
+    company_name: "Apple Mart",
+    icon: apple,
+    iconBg: "#fff",
+    date: "Aug 2022 - Sept 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Worked part-time as a sales assistant handling billing, inventory, and customer interactions at Apple Mart, a Mangalore-based local retail store chain."
+    ],
+  },
+  {
+    title: "Social Worker [Volunteer]",
+    company_name: "Several Non-Profits",
+    icon: volunteer,
+    iconBg: "#fff",
+    date: "Jul 2017 - Apr 2020",
+    points: [
+      "Volunteered at Ramakrishna Math & Mission and Sanathana Seva Trust, contributing to community service initiatives.", 
+      "Represented Swacch Mangaluru Abhiyan as an ambassador, organising and participating in city cleanups, painting public walls, and restoring bus shelters.",
+      "Helped with student outreach events, documentation, and other events.",
+      "Recognised with the “Swacchata Senani” and several other titles for consistent involvement."
     ],
   }
 ];
