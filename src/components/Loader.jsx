@@ -1,11 +1,21 @@
-import React from 'react'
+import { Html, useProgress } from '@react-three/drei';
 
 const Loader = () => {
+  const { progress } = useProgress();
   return (
-    <mesh>
-      <boxGeometry args={[1, 1, 1]} />
-      <meshStandardMaterial color="gray" />
-    </mesh>
+    <Html>
+      <span className="canvas-load"></span>
+      <p
+        styles={{
+          fontSize: 14,
+          fontWeight: 800,
+          color: '#f1f1f1',
+          marginTop: 40
+        }}
+        >
+          {progress.toFixed(2)}%
+      </p>
+    </Html>
   )
 }
 
