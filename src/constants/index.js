@@ -111,11 +111,7 @@ const technologies = [
   {
     name: "figma",
     icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
-  },
+  }
 ];
 
 const experiences = [
@@ -125,6 +121,7 @@ const experiences = [
     icon: aarvath,
     iconBg: "#fff",
     date: "Jul 2023 - Nov 2024",
+    certificate: "/src/assets/company/aarvath_certificate.pdf",
     points: [
       "Led the design and development team.",
       "Represented the student-lead startup at tech events.",
@@ -134,12 +131,13 @@ const experiences = [
   },
   {
     title: "Sales Assistant",
-    company_name: "Apple Mart",
+    company_name: "Apple Mart Valencia Branch",
     icon: apple,
     iconBg: "#fff",
     date: "Aug 2022 - Sept 2022",
     points: [
-      "Worked part-time as a sales assistant handling billing, inventory, and customer interactions at Apple Mart, a Mangalore-based local retail store chain."
+      "Worked part-time as a sales assistant.", 
+      "Handled billing, inventory, and customer interactions at the local retail store."
     ],
   },
   {
@@ -149,9 +147,9 @@ const experiences = [
     iconBg: "#fff",
     date: "Jul 2017 - Apr 2020",
     points: [
-      "Volunteered at Ramakrishna Math & Mission and Sanathana Seva Trust, contributing to community service initiatives.", 
-      "Represented Swacch Mangaluru Abhiyan as an ambassador, organising and participating in city cleanups, painting public walls, and restoring bus shelters.",
-      "Helped with student outreach events, documentation, and other events.",
+      "Volunteered at Ramakrishna Math & Mission and Sanathana Seva Trust, contributing to community service.", 
+      "Represented Swacch Mangaluru Abhiyan as an ambassador, organising and participating in city cleanups, restoring public property.",
+      "Helped with outreach, documentation, and events.",
       "Recognised with the “Swacchata Senani” and several other titles for consistent involvement."
     ],
   }
