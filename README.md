@@ -90,7 +90,7 @@ OR manually push `/dist` to the `gh-pages` branch.
 You can reach me via the contact form on the site or through:
 
 * GitHub: [@zGrish](https://github.com/zGrish)
-* LinkedIn: *\[Add your profile link here]*
+* LinkedIn: *\[Grishma Nair](www.linkedin.com/in/grishma-nair-in)*
 
 ---
 
@@ -98,5 +98,3 @@ You can reach me via the contact form on the site or through:
 
 * [EmailJS](https://www.emailjs.com/) — for handling client-side email submission
 * [Three.js + React Three Fiber Docs](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
-
----
