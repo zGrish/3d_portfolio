@@ -90,7 +90,7 @@ OR manually push `/dist` to the `gh-pages` branch.
 You can reach me via the contact form on the site or through:
 
 * GitHub: [@zGrish](https://github.com/zGrish)
-* LinkedIn: [Grishma Nair](www.linkedin.com/in/grishma-nair-in)
+* LinkedIn: [Grishma Nair](https://www.linkedin.com/in/grishma-nair-in/)
 
 ---
 
